@@ -1,2 +1,6 @@
 # MincuDan-github.io
-Programe pentru telefoane mobile
+## Aplicatii web
+
+**Programe** _pentru telefoane mobile_
+
+[my site is](https://MincuDan.github.io)
