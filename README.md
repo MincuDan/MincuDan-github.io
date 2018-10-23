@@ -1,4 +1,4 @@
-# MincuDan-github.io
+# MincuDan.github.io
 ## Aplicatii web
 
 **Programe** _pentru telefoane mobile_
